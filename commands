@@ -1,0 +1,33 @@
+ls //ygeb eh elii fe dic eii feh now
+pwd /home/merna //asm l dic elii feh
+ls  /home/merna/Downloads ygeb elii fe dic elii hktabo mn awal l root
+ls -a kol l files 7ata elii hidden
+cd Desktop/
+cd merna\ adel
+pushd Download/
+popd
+ls -r order them
+file merna //no3  l file
+locate merna //kol l files elii feha l asm da
+which phpstorm //hygblii l mkan elii nazel fe
+history //kol commands elii ktbtha
+whatis cal //ytl3lak 3obra 3n eh
+apropos time //ygblii kol l commands elii fe linux ttklm 3n time
+touch file1 //lw mwgod by3mlo update w lw mesh mwgod by3mal wa7ed
+cp file1 file2
+rm file1 //remove file
+rm * //remove all files
+rm -r //msa7 kol haga xd
+rm -r merna //amsa7 l dir
+rmdir merna //amsa7 l dir
+cat << file //aktab elii ana 3wzah 
+cat file //ashof elii gwa l file
+cat file1 file2
+more file
+less file
+nano file //aktab gwah
+history | less
+sudo s //as a root user //not safe
+
+watch free -h //ashof l storge free eli 3andy 
+
